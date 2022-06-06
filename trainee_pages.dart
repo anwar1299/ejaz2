@@ -1,0 +1,11 @@
+export 'club_courses_page.dart';
+export 'trainee_club_information_page.dart';
+export 'trainee_clubs_page.dart';
+export 'trainee_course_details_page.dart';
+export 'trainee_cv_page.dart';
+export 'trainee_home_page.dart';
+export 'trainee_info_page.dart';
+export 'trainee_modification_page.dart';
+export 'trainee_notifications_page.dart';
+export 'trainee_order_status_page.dart';
+export 'trainee_rating_page.dart';
